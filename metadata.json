@@ -1,0 +1,6 @@
+{
+  "name": "AegisTriage - Healthcare Complaint Triage Agent",
+  "description": "AI-assisted clinical, safety, and regulatory complaint triage platform for healthcare organizations to review, prioritize, and route patient grievances and portal feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
